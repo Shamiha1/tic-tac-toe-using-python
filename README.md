@@ -13,3 +13,5 @@ Fun victory messages for enhanced user experience.
 2. Real-time win/tie detection with color-coded highlights.
 3. Intuitive and aesthetic user interface.
 4. Randomized player start.
+![Screenshot (79)](https://github.com/user-attachments/assets/89005d43-0142-4b1b-9662-7a6eed7885b9)
+![Screenshot (80)](https://github.com/user-attachments/assets/042cccc5-f528-4948-a1f0-10aa90b347ce)
